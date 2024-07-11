@@ -1,0 +1,7 @@
+#include<standard.h>
+#include<stdio.h>
+void main()
+{ 
+  print("Software engineering");
+}
+return 0;
